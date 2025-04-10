@@ -1,0 +1,34 @@
+/* Styling for the primary button */
+.primary-btn {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Styling for the secondary button */
+.secondary-btn {
+    background-color: #6C757D;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.primary-btn{
+    margin-left: 60px;
+}
+
+/* Add hover effects */
+.primary-btn:hover {
+    background-color: #0056b3;
+}
+
+.secondary-btn:hover {
+    background-color: #5a6268;
+}
